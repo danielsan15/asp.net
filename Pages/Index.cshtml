@@ -1,0 +1,41 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+ 
+
+<div class="prod-items section-items">			
+@foreach (var item in Model.Book)
+            {
+<div class="prod-i">
+					<div class="prod-i-top">
+						<a asp-page="BookDetails" asp-route-id="@item.Id" class="prod-i-img"><!-- NO SPACE --><img class="card-img-top" src="/img/book_img.jpg" alt="..." /><!-- NO SPACE --></a>
+						<p class="prod-i-info">
+							<a href="#" class="prod-i-favorites"><span>@item.Title</span><i class="fa fa-heart"></i></a>
+							<a href="#" class="qview-btn prod-i-qview"><span>@item.Author</span><i class="fa fa-search"></i></a>
+							<a class="prod-i-compare" href="#"><span>Price: $@item.Price</span><i class="fa fa-bar-chart"></i></a>
+						</p>
+						
+
+						
+					</div>
+					<h3>
+						<a class="btn btn-outline-dark mt-auto w-100" asp-page="BookDetails" asp-route-id="@item.Id">
+                                    View Details
+                                </a>
+					</h3>
+					<p class="prod-i-price">
+						<b>Price: $@item.Price</b>
+					</p>
+					<div class="prod-i-skuwrapcolor">
+						<ul class="prod-i-skucolor">
+							<li class="bx_active"><img src="asset/img/color/red.jpg" alt="Red"></li>
+							<li><img src="asset/img/color/blue.jpg" alt="Blue"></li>
+                            <li></li>
+						</ul>
+					</div>
+                    
+				</div>
+					}
+</div>

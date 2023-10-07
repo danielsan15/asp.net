@@ -1,0 +1,43 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<section class="container stylization maincont">
+<h1 class="main-ttl"><span>@ViewData["Title"]</span></h1>
+<div class="auth-wrap">
+<div class="auth-col">
+                
+                <form id="account" method="post" class="login">
+                    <p>
+                        <label for="username">E-mail <span class="required">*</span></label>
+                        <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" id="username" />
+                     <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    </p>
+                    <p>
+                        <label for="password">Password <span class="required">*</span></label>
+                       <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" type="password" id="password" />
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </p>
+                    <p class="auth-submit">
+                        <input id="login-submit" type="submit" value="Login">
+                        <input type="checkbox" id="rememberme" value="forever">
+                        <label for="rememberme">Remember me</label>
+                    </p>
+                    <p class="auth-lost_password">
+                       <a id="forgot-password" asp-page="./ForgotPassword">Forgot your password?</a>
+                        
+                    </p>
+                     <p class="auth-lost_password">
+                        <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a>
+                     </p>
+                </form>
+            </div>
+</div>
+</section>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

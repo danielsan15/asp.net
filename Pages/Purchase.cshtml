@@ -1,0 +1,114 @@
+﻿@page
+@model BookStore.Pages.PurchaseModel
+@{
+    ViewData["Title"] = "Purchase page";
+}
+
+
+    
+
+
+        <ul class="b-crumbs">
+            <li>
+                <a asp-area="" asp-page="/Index">
+                    Home
+                </a>
+            </li>
+            <li>
+                <span>Cart</span>
+            </li>
+        </ul>
+        <h1 class="main-ttl"><span>Cart</span></h1>
+        <!-- Cart Items - start -->
+        <form action="#">
+
+            <div class="cart-items-wrap">
+                <table class="cart-items">
+                    <thead>
+                    <tr>
+                        <td class="cart-image">Photo</td>
+                        <td class="cart-ttl">Products</td>
+                        <td class="cart-price">Price</td>
+                        <td class="cart-quantity">Quantity</td>
+                        <td class="cart-summ">Summ</td>
+                        <td class="cart-del">&nbsp;</td>
+                    </tr>
+                    </thead>
+                    <tbody>
+                         @foreach (var item in Model.Cart)
+                        {
+                    <tr>
+                        <td class="cart-image">
+                            <a href="product.html">
+                                <img src="http://placehold.it/61x80" alt="Similique delectus totam">
+                            </a>
+                        </td>
+                        <td class="cart-ttl">
+                            <a href="product.html">@item.Book.Title</a>
+                            <p>@item.Book.Description</p>
+                            
+                        </td>
+                        <td class="cart-price">
+                            <b>$@item.Book.Price</b>
+                        </td>
+                        <td class="cart-quantity">
+                            <p class="cart-qnt">
+                                
+                                 <input value="@item.Quantity" type="text"><br>
+                                 <form method="post" asp-page="Purchase" asp-page-handler="AddQty">
+                                                <a href="#" class="cart-plus" onclick="this.parentNode.submit(); return false;"><i class="fa fa-angle-up"></i></a>
+                                                <input type="hidden" name="id" value="@item.Book.Id">
+                                            </form>
+                                            <form method="post" asp-page="Purchase" asp-page-handler="MinusQty">
+                                                <a href="#" class="cart-minus" onclick="this.parentNode.submit(); return false;"><i class="fa fa-angle-down"></i></a>
+                                                <input type="hidden" name="id" value="@item.Book.Id">
+                                            </form>
+                            </p>
+                        </td>
+                        <td class="cart-summ">
+                            <b>@item.SubTotal</b>
+                            
+                        </td>
+                        <td class="cart-del">
+                          <form method="post" asp-page="Purchase" asp-page-handler="RemoveItem">
+                                                <a href="#"  onclick="this.parentNode.submit(); return false;"><i class="fa fa-trash text-danger fs-4"></i></a>
+                                                <input type="hidden" name="id" value="@item.Book.Id">
+                            </form>
+                        </td>
+                    </tr>
+                        }
+                       
+                    </tbody>
+                </table>
+            </div>
+            <ul class="cart-total">
+               
+                 <h4 class="text-end">Total <strong>$@ViewData["total"]</strong></h4>
+            </ul>
+            <div class="cart-submit">
+                <div class="cart-coupon">
+                    <input placeholder="your coupon" type="text">
+                    <a class="cart-coupon-btn" href="#"><img src="img/ok.png" alt="your coupon"></a>
+                </div>
+                <a href="#" class="cart-submit-btn">Checkout</a>
+                <a href="#" class="cart-clear">Clear cart</a>
+            </div>
+        </form>
+        <!-- Cart Items - end -->
+
+ @section Scripts {
+    <script>
+    // Función para actualizar la cantidad en el carrito
+    function updateCartItemCount() {
+        var cartItemCountElement = document.getElementById("cartItemCount");
+        if (cartItemCountElement) {
+            // Utiliza el valor proporcionado por el modelo
+            var cartItemCount = @Model.CartItemCount;
+            cartItemCountElement.textContent = cartItemCount;
+        }
+    }
+
+    // Llama a la función para actualizar la cantidad en el carrito al cargar la página
+    updateCartItemCount();
+</script>
+   }

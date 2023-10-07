@@ -1,0 +1,577 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BookStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookStore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\asset\\css\\flexslider.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\asset\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\asset\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\css\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\asset\\css\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\css\\jQuery.Brazzers-Carousel.css",
+      "PackagePath": "staticwebassets\\asset\\css\\jQuery.Brazzers-Carousel.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\css\\jquery.bxslider.css",
+      "PackagePath": "staticwebassets\\asset\\css\\jquery.bxslider.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\asset\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\css\\media.css",
+      "PackagePath": "staticwebassets\\asset\\css\\media.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\css\\style.css",
+      "PackagePath": "staticwebassets\\asset\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\css\\swiper.css",
+      "PackagePath": "staticwebassets\\asset\\css\\swiper.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\asset\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\asset\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\asset\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\asset\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\asset\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\asset\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\arr1.png",
+      "PackagePath": "staticwebassets\\asset\\img\\arr1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\bar.png",
+      "PackagePath": "staticwebassets\\asset\\img\\bar.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\bx_loader.gif",
+      "PackagePath": "staticwebassets\\asset\\img\\bx_loader.gif"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\chk1.png",
+      "PackagePath": "staticwebassets\\asset\\img\\chk1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\asset\\img\\chosen-sprite.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\color\\blue.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\color\\blue.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\color\\green.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\color\\green.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\color\\purple.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\color\\purple.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\color\\red.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\color\\red.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\color\\yellow.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\color\\yellow.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\controls.png",
+      "PackagePath": "staticwebassets\\asset\\img\\controls.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\asset\\img\\fancybox_loading.gif"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\asset\\img\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\asset\\img\\fancybox_overlay.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\asset\\img\\fancybox_sprite.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\asset\\img\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\logo-b.png",
+      "PackagePath": "staticwebassets\\asset\\img\\logo-b.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\logo.png",
+      "PackagePath": "staticwebassets\\asset\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\map.png",
+      "PackagePath": "staticwebassets\\asset\\img\\map.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\map1.png",
+      "PackagePath": "staticwebassets\\asset\\img\\map1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\marker.png",
+      "PackagePath": "staticwebassets\\asset\\img\\marker.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\nav1.png",
+      "PackagePath": "staticwebassets\\asset\\img\\nav1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\ok.png",
+      "PackagePath": "staticwebassets\\asset\\img\\ok.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\remove.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\remove.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\sep1.png",
+      "PackagePath": "staticwebassets\\asset\\img\\sep1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\separator1.png",
+      "PackagePath": "staticwebassets\\asset\\img\\separator1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\slider\\slide1.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\slider\\slide1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\asset\\img\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\subscribe.jpg",
+      "PackagePath": "staticwebassets\\asset\\img\\subscribe.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\img\\viewmode.png",
+      "PackagePath": "staticwebassets\\asset\\img\\viewmode.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\blank.gif",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\blank.gif"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\fancybox.js",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\fancybox.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\fancybox_loading.gif"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\fancybox_overlay.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\fancybox_sprite.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\helpers\\fancybox_buttons.png",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\helpers\\fancybox_buttons.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\helpers\\jquery.fancybox-buttons.css",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\helpers\\jquery.fancybox-buttons.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\helpers\\jquery.fancybox-buttons.js",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\helpers\\jquery.fancybox-buttons.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\helpers\\jquery.fancybox-media.js",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\helpers\\jquery.fancybox-media.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\helpers\\jquery.fancybox-thumbs.css",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\helpers\\jquery.fancybox-thumbs.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\fancybox\\helpers\\jquery.fancybox-thumbs.js",
+      "PackagePath": "staticwebassets\\asset\\js\\fancybox\\helpers\\jquery.fancybox-thumbs.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\gmap.js",
+      "PackagePath": "staticwebassets\\asset\\js\\gmap.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\jQuery.Brazzers-Carousel.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jQuery.Brazzers-Carousel.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\jquery-1.11.2.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery-1.11.2.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\jquery.bxslider.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery.bxslider.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\main.js",
+      "PackagePath": "staticwebassets\\asset\\js\\main.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\asset\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\progressbar.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\progressbar.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\asset\\js\\swiper.jquery.min.js",
+      "PackagePath": "staticwebassets\\asset\\js\\swiper.jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\img\\book_img.jpg",
+      "PackagePath": "staticwebassets\\img\\book_img.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\BookShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BookStore.props",
+      "PackagePath": "build\\BookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStore.props",
+      "PackagePath": "buildMultiTargeting\\BookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BookStore.props",
+      "PackagePath": "buildTransitive\\BookStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
